@@ -1,0 +1,7 @@
+[2026-10-20T23:09:03Z] === AST ITERATION 1 START | repo=py-pdf/pdfly sha=1612f426 ===
+[2026-10-20T23:09:03Z] [iter=1] PHASE START: ast repo=py-pdf/pdfly sha=1612f426
+[2026-10-20T23:09:03Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T23:09:15Z] [iter=1] AST chunks built count=1 triples=157509
+[2026-10-20T23:09:15Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/1612f4263692842cd622167a456f0bb490df5219/.complete
+[2026-10-20T23:09:15Z] [iter=1] PHASE END: ast elapsed_s=12 elapsed_min=0.2
+[2026-10-20T23:09:15Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

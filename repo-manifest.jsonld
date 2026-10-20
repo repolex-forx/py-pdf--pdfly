@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/py-pdf/pdfly/commit/1612f4263692842cd622167a456f0bb490df5219",
       "git:hexsha": "1612f4263692842cd622167a456f0bb490df5219",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/py-pdf/pdfly/commit/e6970739051fabb61813fbf7ab85ad0bb2a8140f",
